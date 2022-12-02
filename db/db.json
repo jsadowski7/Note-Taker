@@ -1,4 +1,4 @@
 [
   { "title": "Test Title", "text": "Test text" },
-  [{ "title": "Note 2", "text": "This is a test!" }]
+  [{ "title": "Note", "text": "This is a test!" }]
 ]
